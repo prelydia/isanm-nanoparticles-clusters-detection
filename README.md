@@ -19,4 +19,4 @@ ISANM (Information System for Analysis of Nanoparticle Morphology) — это в
 - OAuth (Orcid)
 
 ## Документация
-Техническое задание доступно в файле 
+Техническое задание доступно в файле TechnicalSpecification.md
